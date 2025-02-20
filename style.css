@@ -20,7 +20,7 @@
 }
 .homepage {
   color: #ffffff;
-  text-align: left;
+  text-align: right;
   font-family: "Inter-Regular", sans-serif;
   font-size: 36px;
   font-weight: 400;
@@ -30,7 +30,7 @@
 }
 .contact {
   color: #ffffff;
-  text-align: left;
+  text-align: right;
   font-family: "Inter-Regular", sans-serif;
   font-size: 36px;
   font-weight: 400;
@@ -40,7 +40,7 @@
 }
 .about {
   color: #ffffff;
-  text-align: left;
+  text-align: right;
   font-family: "Inter-Regular", sans-serif;
   font-size: 36px;
   font-weight: 400;
