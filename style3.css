@@ -1,0 +1,103 @@
+.contact-page,
+.contact-page * {
+  box-sizing: border-box;
+}
+.contact-page {
+  background: #f70101;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #f70101;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 43px;
+  top: 22px;
+}
+.homepage {
+  color: #f70101;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 979px;
+  top: 22px;
+}
+.contact {
+  color: #f70101;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 1175px;
+  top: 22px;
+}
+.about {
+  color: #f70101;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 1330px;
+  top: 22px;
+}
+.frame-3 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1254px;
+  position: absolute;
+  left: 17px;
+  top: 158px;
+}
+.frame-2 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 27px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.contact-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+  height: 73px;
+}
+.reach-out-to-the-course-team-for-support-or-inquires-professor-contact-paul-t-shapiro-pshapiro-umd-edu-ta-contact-bharath-sreekumar-bsreekum-umd-edu-caifu-lin-clin-0817-terpmail-umd-edu-sumanth-devara-sdevara-umd-edu {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+  width: 1148px;
+  height: 502px;
+}

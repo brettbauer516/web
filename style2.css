@@ -1,0 +1,80 @@
+.about-page,
+.about-page * {
+  box-sizing: border-box;
+}
+.about-page {
+  background: #f70101;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 43px;
+  top: 22px;
+}
+.homepage {
+  color: #ffffff;
+  text-align: right;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 979px;
+  top: 22px;
+}
+.contact {
+  color: #f70101;
+  text-align: right;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 1175px;
+  top: 22px;
+}
+.about {
+  color: #f70101;
+  text-align: right;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 1330px;
+  top: 22px;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 27px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1214px;
+  position: absolute;
+  left: 29px;
+  top: 342px;
+}
+.bmgt-407-information-systems-projects {
+  color: #f70101;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.bmgt-407-is-the-capstone-course-for-information-systems-is-majors-semester-details-spring-2025-professor-paul-t-shapiro-teaching-assistants-bharath-sreekumar-caifu-lin-sumanth-devara {
+  color: #f70101;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+  width: 1068px;
+  height: 164px;
+}
